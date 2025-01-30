@@ -23,7 +23,7 @@ Make sure you have Python 3.8+ installed on your system.
 
 1️⃣ Clone the Repository
 
-git clone https://github.com/yourusername/File-Organizer.git
+git clone https://github.com/Ronty00/File-Organizer.git
 cd File-Organizer
 
 2️⃣ Install Dependencies
